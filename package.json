@@ -1,0 +1,29 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "Penplot Train",
+  "main": "train-penplot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evelios/train-penplot.git"
+  },
+  "author": "Thomas Waters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evelios/train-penplot/issues"
+  },
+  "homepage": "https://github.com/Evelios/train-penplot#readme",
+  "dependencies": {
+    "adaptive-poisson-sampling": "git+https://github.com/Evelios/adaptive-poisson-sampling.git",
+    "flatten-line-tree": "git+https://github.com/Evelios/flatten-line-tree.git",
+    "new-array": "^1.0.0",
+    "optimize-paths": "git+https://github.com/Evelios/optimize-path.git",
+    "polygon-crosshatching": "git+https://github.com/Evelios/polygon-crosshatching.git",
+    "regular-polygon": "git+https://github.com/Evelios/regular-polygon.git",
+    "simplex-noise": "^2.4.0",
+    "vector": "git+https://github.com/Evelios/Vector.git"
+  }
+}
